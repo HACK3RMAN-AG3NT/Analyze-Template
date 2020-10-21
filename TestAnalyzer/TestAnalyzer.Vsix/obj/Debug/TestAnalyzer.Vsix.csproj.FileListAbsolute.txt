@@ -1,0 +1,17 @@
+D:\Dot Net\TestAnalyzer\TestAnalyzer.Vsix\bin\Debug\tools\install.ps1
+D:\Dot Net\TestAnalyzer\TestAnalyzer.Vsix\bin\Debug\tools\uninstall.ps1
+D:\Dot Net\TestAnalyzer\TestAnalyzer.Vsix\bin\Debug\TestAnalyzer.vsix
+D:\Dot Net\TestAnalyzer\TestAnalyzer.Vsix\bin\Debug\extension.vsixmanifest
+D:\Dot Net\TestAnalyzer\TestAnalyzer.Vsix\bin\Debug\TestAnalyzer.dll
+D:\Dot Net\TestAnalyzer\TestAnalyzer.Vsix\bin\Debug\System.Collections.Immutable.dll
+D:\Dot Net\TestAnalyzer\TestAnalyzer.Vsix\bin\Debug\TestAnalyzer.pdb
+D:\Dot Net\TestAnalyzer\TestAnalyzer.Vsix\obj\Debug\TestAnalyzer.Vsix.csprojAssemblyReference.cache
+D:\Dot Net\TestAnalyzer\TestAnalyzer.Vsix\obj\Debug\_EmptyResource.resources
+D:\Dot Net\TestAnalyzer\TestAnalyzer.Vsix\obj\Debug\TestAnalyzer.Vsix.csproj.GenerateResource.cache
+D:\Dot Net\TestAnalyzer\TestAnalyzer.Vsix\obj\Debug\TestAnalyzer.Vsix.csproj.CoreCompileInputs.cache
+D:\Dot Net\TestAnalyzer\TestAnalyzer.Vsix\obj\Debug\TestAnalyzer.Vsix.csproj.CopyComplete
+D:\Dot Net\TestAnalyzer\TestAnalyzer.Vsix\obj\Debug\TestAnalyzer.dll
+D:\Dot Net\TestAnalyzer\TestAnalyzer.Vsix\obj\Debug\TestAnalyzer.pdb
+D:\Dot Net\TestAnalyzer\TestAnalyzer.Vsix\obj\Debug\extension.vsixmanifest
+D:\Dot Net\TestAnalyzer\TestAnalyzer.Vsix\obj\Debug\files.json
+D:\Dot Net\TestAnalyzer\TestAnalyzer.Vsix\obj\Debug\createTemplateManifests.cache

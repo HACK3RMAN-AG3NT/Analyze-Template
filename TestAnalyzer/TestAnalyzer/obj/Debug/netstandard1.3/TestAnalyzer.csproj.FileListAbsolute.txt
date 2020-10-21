@@ -1,0 +1,13 @@
+D:\Dot Net\TestAnalyzer\TestAnalyzer\bin\Debug\netstandard1.3\tools\install.ps1
+D:\Dot Net\TestAnalyzer\TestAnalyzer\bin\Debug\netstandard1.3\tools\uninstall.ps1
+D:\Dot Net\TestAnalyzer\TestAnalyzer\bin\Debug\netstandard1.3\TestAnalyzer.deps.json
+D:\Dot Net\TestAnalyzer\TestAnalyzer\bin\Debug\netstandard1.3\TestAnalyzer.dll
+D:\Dot Net\TestAnalyzer\TestAnalyzer\bin\Debug\netstandard1.3\TestAnalyzer.pdb
+D:\Dot Net\TestAnalyzer\TestAnalyzer\obj\Debug\netstandard1.3\TestAnalyzer.csprojAssemblyReference.cache
+D:\Dot Net\TestAnalyzer\TestAnalyzer\obj\Debug\netstandard1.3\TestAnalyzer.Resources.resources
+D:\Dot Net\TestAnalyzer\TestAnalyzer\obj\Debug\netstandard1.3\TestAnalyzer.csproj.GenerateResource.cache
+D:\Dot Net\TestAnalyzer\TestAnalyzer\obj\Debug\netstandard1.3\TestAnalyzer.AssemblyInfoInputs.cache
+D:\Dot Net\TestAnalyzer\TestAnalyzer\obj\Debug\netstandard1.3\TestAnalyzer.AssemblyInfo.cs
+D:\Dot Net\TestAnalyzer\TestAnalyzer\obj\Debug\netstandard1.3\TestAnalyzer.csproj.CoreCompileInputs.cache
+D:\Dot Net\TestAnalyzer\TestAnalyzer\obj\Debug\netstandard1.3\TestAnalyzer.dll
+D:\Dot Net\TestAnalyzer\TestAnalyzer\obj\Debug\netstandard1.3\TestAnalyzer.pdb
